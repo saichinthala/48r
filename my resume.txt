@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head> 
+    <title>RESUME</title>
+</head>
+<body>
+    <centre><h3>Sai Pallavi</h3></center>
+    <centre><h2>Mail:pallavisai@gmail.com</h2></centre><hr>
+    <h2>objective</h2>
+    <p>Aspiring to be strong programming skills and academic background to contribute the innovational pobjects.
+    seeking for an opportunity and also contribute to the company using my excellence.</p><hr>
+    <h2> Education <h2>
+    <p> B.tech <br> RISE krishna Sai Prakasam Group of Institutions <br> Intermediate <br> Narayana Jr college br> schooling <br>
+    Krishna Memorial  high School </p>
+</body>
